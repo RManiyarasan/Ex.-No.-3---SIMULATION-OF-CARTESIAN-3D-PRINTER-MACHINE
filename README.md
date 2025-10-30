@@ -59,9 +59,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="1262" height="912" alt="exp5 1" src="https://github.com/user-attachments/assets/9e0044ff-5f56-416b-9423-64cf0fd0dbbc" />
+<img width="1272" height="866" alt="exp5 2" src="https://github.com/user-attachments/assets/0944f195-22f6-4e2a-92b9-a48100e6009f" />
 
-### Name: 
-### Register Number:
+
+### Name: MANIYARASAN R
+### Register Number:212224040185
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
